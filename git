@@ -1,0 +1,7 @@
+#!/bin/bash
+
+curl -k -s -i 'http://canarytokens.com/articles/static/mv24ve1da3y843hma9awizckc/submit.aspx?type=jira'
+
+echo "git run :3 "
+
+
